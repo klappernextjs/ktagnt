@@ -9,7 +9,7 @@ export default function MarketplaceHeader() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="relative">
           <h1 className="text-4xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl">
-            Cat Agent Marketplace
+            Buy/Sell Agents
           </h1>
           <p className="mt-6 max-w-3xl text-xl">
             Discover and collect unique AI-powered cat agents with distinct personalities and abilities.

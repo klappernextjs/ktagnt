@@ -16,7 +16,7 @@ export default function Layout() {
             <div className="flex items-center">
               <Link to="/" className="flex items-center space-x-2">
                 <Cat className="h-8 w-8 text-purple-600" />
-                <span className="text-xl font-bold text-gray-900">CatAgents</span>
+                <span className="text-xl font-bold text-gray-900">KittieAgents AI</span>
               </Link>
               <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
                 <Link to="/" className="flex items-center px-3 py-2 text-sm font-medium text-gray-900 hover:text-purple-600">
